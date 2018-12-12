@@ -1,0 +1,38 @@
+body{
+font-family:'PT Sans', sans-serif;
+}
+.container{
+width:300px;
+margin:10px auto;
+}
+.block{
+padding:10px;
+margin-bottom:10px;
+border:2px double #ccc;
+color: white;
+background:url("JI6.jpg");
+background-size: 200px;
+}
+.column1{
+float:left;
+width:65px;
+min-height:50px;
+margin-right:9px;
+font-size: 13px;
+text-align:left;
+list-style-type: none;
+}
+.column2{
+float:left;
+width:178px;
+min-height:50px;
+font-size: 7px;
+}
+.column3{
+float:right;
+width:65px;
+min-height:50px; 
+}
+.footer{
+clear:both;
+}
